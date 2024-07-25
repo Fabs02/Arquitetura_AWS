@@ -5,3 +5,4 @@
 ## 🎯 Objetivo: Migrar a infraestrutura de TI da Empresa X para a nuvem, implementando uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente. O grupo deve montar um diagrama de como ficaria a estrutura da AWS, com serviços que o grupo entender ser o ideal.
 
 ## Arquitetura Montada
+![Diagrama da solução](Arquitetura.jpg)
